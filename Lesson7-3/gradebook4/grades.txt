@@ -1,0 +1,24 @@
+x	writing-fractions 	equivalent-fractions	multiplying-fractions	adding-fractions	decimals
+Tom 	8	7	9	3	10
+Joe	7	6	10	8	9
+Amanda	7	3	7	5	7
+Phil	5	6	6	4	6
+Tory	9	8	10	6	10
+Kim	8	8	6	2	8
+Felicia	10	4	10	4	7
+Andy	7	8	7	6	1
+Bob	8	9	7	2	9
+Cindy	8	5	8	9	8
+Caitlin	8	4	4	9	9
+Quentin	6	4	9	0	7
+Vishal	8	8	5	9	2
+Nancy	6	8	10	1	7
+Leo	7	6	5	8	2
+Alexey	8	5	9	6	1
+Estella	0	10	9	3	3
+Jasper	6	4	8	8	10
+Kyle	8	9	8	8	10
+Barbara	10	9	4	9	10
+Diane	8	8	7	6	10
+Ke	6	5	8	5	8
+

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=InchWorm()
+comment1.params=initialPosition
+comment1.target=InchWorm(int)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=void\ turn()
+comment4.params=
+comment4.target=int\ getPosition()
+numComments=5

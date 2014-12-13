@@ -1,0 +1,18 @@
+Enter data, or -1 to exit
+Capacity Name Destination
+Capacity Name Destination
+Capacity Name Destination
+Capacity Name Destination
+Capacity Name Destination
+Capacity Name Destination
+Capacity Name Destination
+Capacity Name Destination
+Capacity Name Destination
+Jane picks up Ann
+Jane picks up Sue
+Jane picks up Kim
+Fred picks up Lee
+Jane drops off Sue
+Jane drops off Ann
+Jane drops off Kim
+Fred drops off Lee

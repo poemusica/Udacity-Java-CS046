@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=theX\ theY
+comment0.target=Flower(int,\ int)
+comment1.params=
+comment1.target=void\ draw()
+numComments=2

@@ -1,0 +1,21 @@
+#BlueJ package file
+package.editor.height=400
+package.editor.width=560
+package.editor.x=121
+package.editor.y=267
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+target1.editor.height=713
+target1.editor.width=805
+target1.editor.x=61
+target1.editor.y=85
+target1.height=50
+target1.name=EqualNumbers
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=130
+target1.x=70
+target1.y=10

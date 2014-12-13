@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height
+comment0.target=House(int,\ int,\ int,\ int)
+comment0.text=\n\ \ \ \ \ \ Constructs\ a\ house\ with\ given\ location\ and\ size.\n\ \ \ \ \ \ @param\ x\ the\ left\ corner\ coordinate\n\ \ \ \ \ \ @param\ y\ the\ top\ corner\ coordinate\n\ \ \ \ \ \ @param\ width\ the\ width\n\ \ \ \ \ \ @param\ height\ the\ height\n
+comment1.params=
+comment1.target=void\ draw()
+comment1.text=\n\ \ \ \ \ \ Draws\ this\ house.\n
+numComments=2

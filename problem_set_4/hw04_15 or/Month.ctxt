@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=month
+comment0.target=boolean\ isSummer(java.lang.String)
+comment0.text=\r\n\ determine\ if\ the\ parameter\ \ is\ one\ of\ the\ summer\r\n\ months,\ "June",\ "July",\ "August"\r\n\ @param\ month\ the\ month\ to\ test\r\n\ @return\ true\ if\ month\ is\ "June",\ "July"\ or\ "August"\r\n
+numComments=1

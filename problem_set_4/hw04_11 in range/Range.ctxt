@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=value
+comment0.target=boolean\ inRange(int)
+comment0.text=\r\n\ Determine\ if\ the\ parameter\ is\ greater\ than\ or\ equal\ to\ 0\ and\ less\ than\ or\ equal\ to\ 100\r\n\ @param\ value\ the\ value\ to\ test\r\n\ @return\ true\ if\ value\ is\ greater\ than\ or\ equal\ to\ 0\ and\ less\ than\ or\ equal\ to\ 100\r\n\ Otherwise\ return\ false\r\n
+numComments=1

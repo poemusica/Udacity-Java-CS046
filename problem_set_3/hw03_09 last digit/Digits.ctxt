@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=number
+comment0.target=int\ lastDigit(int)
+comment0.text=\r\n\ Gets\ the\ last\ digit\ of\ a\ number\r\n\ @param\ number\ the\ number\ whose\ last\ digit\ we\ want\r\n\ @return\ the\ last\ digit\ of\ the\ parameter\r\n
+numComments=1

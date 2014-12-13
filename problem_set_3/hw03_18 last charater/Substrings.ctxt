@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=java.lang.String\ lastCharacter(java.lang.String)
+comment0.text=\r\n\ Gets\ the\ last\ character\ of\ the\ parameter\r\n\ @param\ text\ the\ string\ we\ want\ the\ last\ character\ of\r\n\ @return\ a\ string\ containing\ the\ last\ character\r\n
+numComments=1

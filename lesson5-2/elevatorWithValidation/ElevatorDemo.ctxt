@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=low\ high\ in\ prompt
+comment0.target=int\ readBetween(int,\ int,\ java.util.Scanner,\ java.lang.String)
+comment0.text=\n\ Reads\ an\ integer\ in\ a\ range.\n\ @param\ low\ the\ lowest\ permitted\ value\n\ @param\ high\ the\ highest\ permitted\ value\n\ @param\ in\ the\ scanner\n\ @param\ prompt\ the\ prompt\ for\ the\ user\n\ @return\ the\ value\ read\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

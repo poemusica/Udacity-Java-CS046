@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=instructor
+comment0.target=boolean\ isMyInstructor(java.lang.String)
+comment0.text=\r\n\ Determines\ if\ the\ instrutor\ given\ is\ the\ instructor\ in\ this\ course,\ Cay\ Horstmann\r\n\ @param\ instructor\ the\ name\ to\ check\r\n\ @return\ true\ if\ the\ instructor\ is\ Cay\ Horstmann.\ False\ otherwise\r\n
+numComments=1

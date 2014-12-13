@@ -1,0 +1,25 @@
+#BlueJ package file
+objectbench.height=259
+objectbench.width=763
+package.editor.height=239
+package.editor.width=970
+package.editor.x=113
+package.editor.y=21
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+target1.editor.height=586
+target1.editor.width=589
+target1.editor.x=419
+target1.editor.y=96
+target1.height=50
+target1.name=StringDemo
+target1.naviview.expanded=false
+target1.showInterface=false
+target1.type=ClassTarget
+target1.typeParameters=
+target1.width=110
+target1.x=80
+target1.y=10

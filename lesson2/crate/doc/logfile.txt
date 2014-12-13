@@ -1,0 +1,52 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-sourcepath
+C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate
+-d
+C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate\doc
+-encoding
+US-ASCII
+-charset
+US-ASCII
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+-doctitle
+crate
+-windowtitle
+crate
+-author
+-version
+-nodeprecated
+-package
+-link
+http://download.oracle.com/javase/6/docs/api/
+C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate/Shape.java
+C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate/Canvas.java
+C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate/Rectangle.java
+C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate/DrawACrate.java
+C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate/Line.java
+C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate/Color.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate/Shape.java...
+Loading source file C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate/Canvas.java...
+Loading source file C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate/Rectangle.java...
+Loading source file C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate/DrawACrate.java...
+C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate\DrawACrate.java:24: error: illegal start of expression
+        Rectangle face = ...;
+                         ^
+C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate\DrawACrate.java:26: error: illegal start of expression
+        Line line1 = ...;
+                     ^
+C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate\DrawACrate.java:28: error: illegal start of expression
+        ...
+        ^
+Loading source file C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate/Line.java...
+Loading source file C:\Users\Heather Mahan\Udacity\CS046_Java\lesson2\crate/Color.java...
+3 errors

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=gasInTank
+comment0.target=java.lang.String\ testGas(double)
+comment0.text=\r\n\ Determines\ if\ the\ fuel\ in\ the\ tank\ is\ low.\r\n\ @param\ gasInTank\ the\ amount\ of\ fuel\ in\ the\ car's\ gas\ tank\r\n\ @return\ "red"\ if\ the\ amount\ of\ gas\ in\ the\ tank\ is\ less\ than\ 1.\ Otherwise\ "green"\r\n
+numComments=1

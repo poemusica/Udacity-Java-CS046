@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ sum(int)
+comment0.text=\r\n\ Gets\ the\ sum\ of\ all\ the\ even\ numbers\ less\ than\ or\ equal\ to\ the\ given\ number\r\n\ @param\ n\ the\ given\ number,\ th\ ceiling\r\n\ @return\ the\ sum\ of\ all\ the\ even\ numbers\ less\ that\ the\ ceiling\r\n
+numComments=1

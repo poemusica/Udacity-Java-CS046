@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=java.lang.String\ getCompleteName(java.lang.String)
+comment0.text=\r\n\ Gets\ the\ name\ with\ the\ proper\ article\r\n\ @param\ name\ the\ country\ name\r\n\ @return\ the\ name\ prepended\ with\ the\ proper\ article\r\n
+comment1.params=name
+comment1.target=boolean\ startsWithVowel(java.lang.String)
+comment1.text=\r\n\ Determines\ if\ this\ name\ is\ starts\ with\ a\ vowel\r\n\ @param\ name\ the\ name\ to\ test\r\n\ @return\ true\ if\ the\ name\ is\ starts\ with\ a\ vowel\ else\ false\r\n
+numComments=2

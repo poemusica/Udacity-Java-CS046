@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=aName\ pictureName\ xCoord\ yCoord
+comment0.target=Person(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getFriends()
+comment2.params=friend
+comment2.target=void\ addFriend(Person)
+comment3.params=nonFriend
+comment3.target=void\ unfriend(Person)
+numComments=4

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=string1
+comment0.target=boolean\ comesAfter(java.lang.String)
+comment0.text=\r\n\ Determine\ if\ the\ string\ comes\ after\ "Udacity"\ in\ lexicographic\ order\r\n\ @param\ string1\ the\ first\ string\r\n\ @return\ true\ if\ string1\ comes\ after\ "Udacity'\ in\ lexicographic\ order.\ \r\n\ Otherwise\ return\ false\r\n
+numComments=1

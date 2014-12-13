@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=theLength\ theWidth
+comment0.target=YardCalculator(double,\ double)
+comment0.text=\r\n\ Constructs\ a\ YardCalculator\ with\ the\ given\ parameters\r\n\ @param\ theLength\ the\ length\ of\ the\ yard\r\n\ @param\ theWidth\ the\ width\ of\ the\ yard\r\n
+numComments=1

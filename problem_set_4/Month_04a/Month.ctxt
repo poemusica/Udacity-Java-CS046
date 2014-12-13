@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=theMonthNumber
+comment0.target=Month(int)
+comment0.text=\r\n\ Contructs\ a\ Month\r\n\ @param\ the\ month\ number.\ Must\ be\ 1\ to\ 12.\ For\ any\ other\ number,\ the\ month\ number\ is\ set\ to\ 1\r\n
+comment1.params=
+comment1.target=java.lang.String\ getMonthName()
+comment1.text=\r\n\ Gets\ the\ name\ of\ this\ month\r\n\ @return\ the\ name\ of\ this\ month\r\n
+comment2.params=
+comment2.target=int\ getNumberOfDays()
+comment2.text=\r\n\ Gets\ the\ number\ of\ days\ in\ this\ month\r\n\ @return\ the\ number\ of\ days\ in\ this\ month\ in\ a\ non-leap\ year\r\n
+numComments=3
